@@ -1,0 +1,27 @@
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/2.7.12+
+Date: Wed, 14 Feb 2018 17:35:14 GMT
+Content-type: text/html; charset=UTF-8
+Content-Length: 572
+Cache-control: must-revalidate
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html>
+<title>Directory listing for /</title>
+<body>
+<h2>Directory listing for /</h2>
+<hr>
+<ul>
+<li><a href="1.txt">1.txt</a>
+<li><a href="100B.test">100B.test</a>
+<li><a href="2.binary">2.binary</a>
+<li><a href="200KB.test">200KB.test</a>
+<li><a href="20MB.test">20MB.test</a>
+<li><a href="50KB.test">50KB.test</a>
+<li><a href="5MB.test">5MB.test</a>
+<li><a href="CN%20Assignment%202.pdf">CN Assignment 2.pdf</a>
+<li><a href="server.py">server.py</a>
+<li><a href="temp_dir/">temp_dir/</a>
+</ul>
+<hr>
+</body>
+</html>
